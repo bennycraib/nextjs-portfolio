@@ -11,6 +11,7 @@ const links = [
   { href: '/writing', label: 'Writing' },
   { href: '/investments', label: 'Investments' },
   { href: '/boutique', label: 'Boutique' },
+  { href: '/podcasts', label: 'Podcasts' }
 ]
 
 export default function Sidebar() {
